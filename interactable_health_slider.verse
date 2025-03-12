@@ -12,7 +12,7 @@ using { /Fortnite.com/Devices }
     using { /Fortnite.com/Playspaces }
     using { /Fortnite.com/Characters }
 		    
-     interactable_slider := class(creative_device): 
+     interactable_health_slider := class(creative_device): 
         var NewShield : float = 100.0
         var NewHealth : float = 100.0 
 
